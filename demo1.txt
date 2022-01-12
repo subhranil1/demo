@@ -1,2 +1,2 @@
-nano is a text editor
-
+nano is a text editor. 
+Vim is also a text editor
